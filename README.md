@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Mayst1232 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayst1232)](https://github.com/Mayst1232/github-readme-stats)
 
 <!--
 **Mayst1232/Mayst1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
